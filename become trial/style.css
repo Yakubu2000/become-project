@@ -44,7 +44,7 @@ body{
     justify-content: center;
     align-items: center;
    border-radius:0 0 0 70px;
-   text-align: center;
+   /* text-align: center; */
 }
 .results p{
     color: #767474;
